@@ -12,8 +12,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> <q>For me, money is not my definition of success. Inspiring people is a definition of success.
-/ Kanye West</q>
+        <p> 
+         <q>
+          The opposite of forggeting is writting it down / Wise man
+         </q>
        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
