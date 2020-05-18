@@ -25,3 +25,12 @@ img {
   max-width: 100%;
   display: block;
 }
+
+
+@import url('https://fonts.xz.style/serve/inter.css');
+
+q {
+  color: gray;
+  font-family: Inter, Segoe UI, Helvetica Neue;
+}
+ 
